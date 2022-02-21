@@ -11,6 +11,11 @@ html_text: str = "express"
 if __name__ == __name__:
     print(len(html_text))
 
+
+# Prints Addition
+print(5 + 3)
+
+
 # Prints Addition
 print(5 + 3)
 
