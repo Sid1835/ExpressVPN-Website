@@ -15,10 +15,6 @@ if __name__ == __name__:
 # Prints Addition
 print(5 + 3)
 
-
-# Prints Addition
-print(5 + 3)
-
 # Print Fname and Age
 print(first_name, 'is', age, 'years old')
 print(last_name)
