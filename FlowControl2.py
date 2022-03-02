@@ -1,3 +1,24 @@
+#Functin in Python
+
+#def is compulsory
+#fun declare// Will work w/o name also
+def GreetMe(name):
+    print("Gd Mrng" + " " + name)
+#Func Call
+GreetMe("Sid")
+
+def AddInt (a,b):
+    print(a+b)
+AddInt(2,3)
+
+#same with return
+def AddInt1 (c,d):
+    return  c+d
+print(AddInt1(2,3))
+
+print("Seperator ++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+")
+
+
 i = 4
 
 while i > 1:
